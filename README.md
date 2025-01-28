@@ -7,6 +7,6 @@ Ce projet vise à améliorer la prédiction du trafic routier en utilisant des t
 ## Installation
 Clonez le dépôt et installez les dépendances :
 ```bash
-git clone https://github.com/votre-username/Traffic-Prediction-SSL.git
+git clone https://github.com/AchrafBir/Enhancing-Traffic-Prediction-with-Self-Supervised-Learning
 cd Traffic-Prediction-SSL
 pip install -r requirements.txt
