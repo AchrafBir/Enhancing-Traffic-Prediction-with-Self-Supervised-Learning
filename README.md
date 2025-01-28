@@ -9,4 +9,4 @@ Clonez le dépôt et installez les dépendances :
 ```bash
 git clone https://github.com/AchrafBir/Enhancing-Traffic-Prediction-with-Self-Supervised-Learning
 cd Traffic-Prediction-SSL
-pip install -r requirements.txt
+run the nootbok ( u can use google colab)
